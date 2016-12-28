@@ -8,3 +8,7 @@ Other stuff:
 * https://github.com/benbusse/tensorflow-primer/blob/master/README.md
 * https://danijar.com/variable-sequence-lengths-in-tensorflow/
 
+Jupyter Notebooks:
+
+* [MNIST notebook](https://github.com/T-B-F/Notes-DL/blob/master/tensorflow/mnist/mnist_tf.ipynb)
+
