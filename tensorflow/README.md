@@ -1,4 +1,4 @@
-# Tutorial on Notes regarding Tensorflow
+# Tutorials and Notes regarding Tensorflow
 
 Starting point:
 * [official tutorials](https://www.tensorflow.org/tutorials/)

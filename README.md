@@ -16,3 +16,6 @@ For NLP:
 * https://cs224d.stanford.edu/syllabus.html
 * http://textminingonline.com/dive-into-tensorflow-part-v-deep-mnist
 
+## Tensorflow
+
+* [quick link to this repo](https://github.com/T-B-F/Notes-DL/tree/master/tensorflow)
