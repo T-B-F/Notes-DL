@@ -11,4 +11,4 @@ Other stuff:
 Jupyter Notebooks:
 
 * [MNIST notebook](https://github.com/T-B-F/Notes-DL/blob/master/tensorflow/mnist/mnist_tf.ipynb)
-
+* [CNN cifar-10 notebook](https://github.com/T-B-F/Notes-DL/blob/master/tensorflow/cnn/cnn_tf.ipynb)
