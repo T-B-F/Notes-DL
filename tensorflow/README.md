@@ -7,6 +7,7 @@ Starting point:
 Other stuff:
 * https://github.com/benbusse/tensorflow-primer/blob/master/README.md
 * https://danijar.com/variable-sequence-lengths-in-tensorflow/
+* https://warmspringwinds.github.io/
 
 Jupyter Notebooks:
 
