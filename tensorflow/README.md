@@ -6,8 +6,9 @@ Starting point:
 
 Other stuff:
 * https://github.com/benbusse/tensorflow-primer/blob/master/README.md
-* https://danijar.com/variable-sequence-lengths-in-tensorflow/
+* https://danijar.com/
 * https://warmspringwinds.github.io/
+* https://r2rt.com/
 
 Jupyter Notebooks:
 
@@ -17,3 +18,6 @@ Jupyter Notebooks:
 Some program:
 
 * [RNN test](https://github.com/T-B-F/Notes-DL/tree/master/tensorflow/rnn), character generator based on [R2RT blog post](https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html)
+
+
+<! -- https://danijar.com/ -- >
