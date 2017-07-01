@@ -20,4 +20,4 @@ Some program:
 * [RNN test](https://github.com/T-B-F/Notes-DL/tree/master/tensorflow/rnn), character generator based on [R2RT blog post](https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html)
 
 
-<! -- https://danijar.com/ -- >
+[] (https://danijar.com/)
